@@ -1,13 +1,24 @@
-Thông tin cần thiết
-Kích thước và chất liệu:
+1.Kích thước bao lì xì:
 
-Kích thước móc khóa (ví dụ: 5x5 cm hoặc 6x6 cm).
-Chất liệu: mica, gỗ, kim loại, hoặc nhựa cứng.
-Mẫu thiết kế:
+Thông dụng: 8x16 cm (chuẩn) hoặc tùy chỉnh theo yêu cầu.
 
-Nếu bạn đã có mẫu sẵn, cần gửi file thiết kế (thường là PNG, JPEG, hoặc AI với độ phân giải cao).
-Nếu chưa có mẫu, bạn cần thuê thiết kế hoặc yêu cầu nhà cung cấp hỗ trợ thiết kế theo ý tưởng.
-Loại in:
+2.Mẫu Thiết Kế:
+<img src="images/maulixi.jpg" alt="Hình Ảnh Mẫu 1" />
+<img src="images/maulixi2.jpg" alt="Hình Ảnh Mẫu 2" />
+<img src="images/maulixi3.jpg" alt="Hình Ảnh Mẫu 3" />
 
-In một mặt hay hai mặt.
-Kỹ thuật in: UV, in decal cán bóng, hoặc in khắc laser.
+3. Chất liệu giấy:
+
+Giấy Couche: 80gsm, 100gsm, hoặc 120gsm (phổ biến, giá tốt).
+Giấy Kraft: màu nâu vintage, thân thiện môi trường.
+Giấy Mỹ thuật: cao cấp, có vân, thường dùng cho bao lì xì sang trọng.
+
+4. Kiểu in:
+
+In offset (phù hợp số lượng lớn).
+In kỹ thuật số (phù hợp khi cần in nhanh).
+Có thể thêm hiệu ứng đặc biệt như ép nhũ vàng, dập nổi, cán bóng/mờ.
+
+5. Số Lượng: 
+Số Lượng Túi: 300 túi
+Số Bao Lì xì Mỗi Túi: 15 bao
